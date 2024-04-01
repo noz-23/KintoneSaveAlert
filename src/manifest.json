@@ -1,0 +1,43 @@
+{
+  "manifest_version": 1,
+  "version":"0.1.0",
+  "type": "APP",
+  "name": {
+    "en": "KintoneSaveAlert",
+    "ja": "Kintone保存確認表示"
+  },
+  "description": {
+    "en": "KintoneSaveAlert",
+    "ja": "Kintone保存確認表示"
+  },
+  "icon": "image/icon.png",
+  "homepage_url": {
+    "en": "https://github.com/noz-23/KintoneGoogleAdSenseTemplate",
+    "ja": "https://github.com/noz-23/KintoneGoogleAdSenseTemplate"
+  },
+  "desktop": {
+    "js": [
+      "https://js.cybozu.com/jquery/3.7.1/jquery.min.js",
+      "https://js.cybozu.com/jsrender/1.0.13/jsrender.min.js",
+      "js/desktop.js"
+    ],
+    "css": [
+      "css/51-modern-default.css",
+      "css/desktop.css"
+    ]
+  },
+  "config": {
+    "html": "html/config.html",
+    "js": [
+      "https://js.cybozu.com/jquery/3.7.1/jquery.min.js",
+      "https://js.cybozu.com/jsrender/1.0.13/jsrender.min.js",
+      "js/config.js"
+    ],
+    "css": [
+      "css/51-modern-default.css",
+      "css/config.css"
+    ],
+    "required_params": [
+    ]
+  }
+}
