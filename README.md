@@ -11,6 +11,7 @@ Kintone 保存時に画面上部に確認アラートを表示するプラグイ
 
 ### イメージ
 
+　![kintoneSaveAlert](https://github.com/noz-23/KintoneSaveAlert/assets/160399039/91aff51f-bbaa-4b24-8637-20a9ee79730d)
 
 ## 2.注意点
 
